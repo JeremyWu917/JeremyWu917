@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with OPC
 - 💬 Ask me about what you want ask
 - 📫 How to reach me: jeremy.wu@foxmail.com
-- 😄 Pronouns: Jeremy
+- 😄 Pronouns: JeremyWu
 - ⚡ Fun fact: Coding makes me different.
 -->
