@@ -1,6 +1,4 @@
 ### Hi there 👋
- 
-Here are some ideas to get you started:
 
 - 🔭 I’m working on IIE
 - 🌱 I’m learning Vue.js as well as React.js
