@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 - 🔭 I’m working on IIE
 - 🌱 I’m learning Vue.js as well as React.js
