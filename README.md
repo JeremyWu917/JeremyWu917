@@ -2,7 +2,9 @@
 **Hi there** 🖐️, **I'm Jeremy**
 
 - I’m working on IIE 🥇
-- Personal page: [JeremyWu](https://jeremywu917.github.io/) 🕸️
+- CV: [JeremyWu](https://jeremywu917.github.io/) 🕸️
+- Blog: [Blog](https://blog.jeremywu.top/) 🎉
+- UI Framework: [ui](https://ui.jeremywu.top/) 🖼️
 - Fun fact: Coding makes me different 🚀
 
 > Always remember below tips :point_down:
