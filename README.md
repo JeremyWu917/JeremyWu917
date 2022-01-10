@@ -8,7 +8,7 @@
 - Fun fact: Coding makes me different 🚀
 - Wechat Official Accounts ⌈ **全栈民工** ⌋
 <p aligh='left'>
-    <img align="center" height="200" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/asfw_logo.jpg'/>
+    <img align="center" height="200" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/logo_05.png'/>
 </p>
 
 
