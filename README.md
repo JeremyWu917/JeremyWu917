@@ -1,5 +1,5 @@
 ### 
-**Hi there** 🖐️, **I'm Jeremy**
+**Hi there** 🖐️, **I'm Jeremy WU**
 
 - I’m working on IIE 🥇
 - CV: [JeremyWu](https://jeremywu917.github.io/) 🕸️
