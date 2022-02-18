@@ -8,7 +8,7 @@
     
 <hr>
     
-**Hi there** 🖐️, **I'm Jeremy WU**
+**Hi there** 🖐️, **Happy New Year** :tada:, **I'm Jeremy WU** 👷‍♂️
 
 - I’m working on IIE 🥇
 - CV: [JeremyWu](https://jeremywu917.github.io/) 🕸️
