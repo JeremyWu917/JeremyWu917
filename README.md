@@ -15,7 +15,7 @@
 - Blog: [Blog](https://blog.jeremywu.top/) 🎉
 - UI Framework: [ui](https://ui.jeremywu.top/) 🖼️
 - Fun fact: Coding makes me different 🚀
-- Wechat Official Accounts ⌈ **全栈民工** ⌋ 🏢
+- Tencent WeChat Official Accounts ⌈ **全栈民工** ⌋ 🏢
 
 <p align="left">
     <a href="https://github.com/jeremywu917">
