@@ -10,7 +10,7 @@
     
 **Hi there** 🖐️, **Good day** :tada:, **I'm Jeremy WU** 👷‍♂️
 
-- I’m working on IIE 🥇
+- I’m working on Weintdata 🥇
 - CV: [JeremyWu](https://jeremywu917.github.io/) 🕸️
 - Blog: [Blog](https://blog.jeremywu.top/) 🎉
 - UI Framework: [ui](https://ui.jeremywu.top/) 🖼️
