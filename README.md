@@ -6,15 +6,8 @@
     </a>
 </p>
     
-<hr>
-    
 **Hi there** 🖐️, **Good day** :tada:, **I'm Jeremy WU** 👷‍♂️
 
-- I’m working on Weintdata 🥇
-- CV: [JeremyWu](https://jeremywu917.github.io/) 🕸️
-- Blog: [Blog](https://blog.jeremywu.top/) 🎉
-- UI Framework: [ui](https://ui.jeremywu.top/) 🖼️
-- Fun fact: Coding makes me different 🚀
 - Tencent WeChat Official Accounts ⌈ **全栈民工** ⌋ 🏢
 
 <p align="left">
@@ -36,5 +29,3 @@
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremywu917&layout=compact&langs_count=8&theme=gruvbox"/>
     </a>
 </p>
-    
-<hr>
