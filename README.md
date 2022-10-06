@@ -1,9 +1,16 @@
 **Hi there** 🖐️, **I'm Jeremy WU** 👷‍♂️
 
-> **Tencent WeChat Official Accounts** <p align="right">
-    <a href="https://github.com/jeremywu917">
-        <img height="150em" width="75%" align="left" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/home_gif_wechat.gif'/>
-        <img height="150em" width="25%" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/logo_05.png'/>
+<p align="left"> 
+    <a href="https://github.com/jeremywu917">  
+        <img height="150em" border-radius="50%" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/home_gif_wechat.gif'/>
+    </a>
+</p>
+
+---
+
+> Tencent WeChat Official Accounts <p align="left">
+    <a href="https://github.com/jeremywu917">        
+        <img height="150em" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/logo_05.png'/>
     </a>
 </p>
 
