@@ -1,28 +1,14 @@
-###
+**Hi there** 🖐️, **I'm Jeremy WU** 👷‍♂️
 
-<p align="center">
+> **Tencent WeChat Official Accounts** <p align="right">
     <a href="https://github.com/jeremywu917">
-        <img height="150em" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/home_gif_wechat.gif'/>
-    </a>
-</p>
-    
-**Hi there** 🖐️, **Good day** :tada:, **I'm Jeremy WU** 👷‍♂️
-
-- Tencent WeChat Official Accounts ⌈ **全栈民工** ⌋ 🏢
-
-<p align="left">
-    <a href="https://github.com/jeremywu917">
-        <img height="150em" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/logo_05.png'/>
+        <img height="150em" width="75%" align="left" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/home_gif_wechat.gif'/>
+        <img height="150em" width="25%" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/logo_05.png'/>
     </a>
 </p>
 
-> Always remember below tips :point_down:
+---
 
-- Respect the privacy of thers.
-- Think before you type.
-- With great power comes great responsibility.
-
-    
 <p align="left">
  	<a href="https://github.com/jeremywu917">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeremywu917&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> 	
