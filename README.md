@@ -2,7 +2,7 @@
 
 🌈 **Noted** 
     <a href="https://github.com/jeremywu917">  
-        <img height="150em" border-radius="50%" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/home_gif_wechat.gif'/>
+        <img height="150em" src='https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/wechat/logo/home_gif_wechat.gif'/>
     </a>
 
 ✨ **Tencent WeChat Official Accounts**
