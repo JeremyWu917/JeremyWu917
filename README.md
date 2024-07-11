@@ -1,5 +1,8 @@
 **Hi there** 🖐️, **I'm Jeremy WU** 👷‍♂️
 
+> [!TIP]
+> Coding change the world :100:
+
 🌈 **Noted** 
 
 <a href="https://github.com/jeremywu917"> 
